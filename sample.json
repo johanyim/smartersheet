@@ -1,0 +1,271 @@
+    "accessLevel": String("OWNER"),
+    "cellImageUploadEnabled": Bool(true),
+
+
+    "columns": Array [
+        Object {
+            "id": Number(2580320622956420),
+            "index": Number(0),
+            "primary": Bool(true),
+            "title": String("Primary Column"),
+            "type": String("TEXT_NUMBER"),
+            "validation": Bool(false),
+            "version": Number(0),
+            "width": Number(150),
+        },
+        Object {
+            "id": Number(7083920250326916),
+            "index": Number(1),
+            "title": String("Column2"),
+            "type": String("TEXT_NUMBER"),
+            "validation": Bool(false),
+            "version": Number(0),
+            "width": Number(150),
+        },
+        Object {
+            "id": Number(1454420716113796),
+            "index": Number(2),
+            "title": String("Column3"),
+            "type": String("TEXT_NUMBER"),
+            "validation": Bool(false),
+            "version": Number(0),
+            "width": Number(150),
+        },
+        Object {
+            "id": Number(5958020343484292),
+            "index": Number(3),
+            "title": String("Column4"),
+            "type": String("TEXT_NUMBER"),
+            "validation": Bool(false),
+            "version": Number(0),
+            "width": Number(150),
+        },
+        Object {
+            "id": Number(3706220529799044),
+            "index": Number(4),
+            "title": String("Column5"),
+            "type": String("TEXT_NUMBER"),
+            "validation": Bool(false),
+            "version": Number(0),
+            "width": Number(150),
+        },
+        Object {
+            "id": Number(8209820157169540),
+            "index": Number(5),
+            "title": String("Column6"),
+            "type": String("TEXT_NUMBER"),
+            "validation": Bool(false),
+            "version": Number(0),
+            "width": Number(150),
+        },
+    ],
+    "createdAt": String("2025-02-20T09:14:55Z"),
+    "dependenciesEnabled": Bool(false),
+    "effectiveAttachmentOptions": Array [
+        String("BOX_COM"),
+        String("DROPBOX"),
+        String("FILE"),
+        String("EVERNOTE"),
+        String("GOOGLE_DRIVE"),
+        String("EGNYTE"),
+        String("ONEDRIVE"),
+        String("LINK"),
+    ],
+    "ganttEnabled": Bool(false),
+    "hasSummaryFields": Bool(false),
+    "id": Number(7091741517631364),
+    "isMultiPicklistEnabled": Bool(true),
+    "modifiedAt": String("2025-02-22T11:13:46Z"),
+    "name": String("Test Sheet"),
+    "permalink": String("https://app.smartsheet.com/sheets/wj7QmH2C5rGX9mfCRPFpgxf9mVJhHVV4FRRFcFH1"),
+    "resourceManagementEnabled": Bool(false),
+    "resourceManagementType": String("NONE"),
+
+    "rows": Array [
+        Object {
+            "cells": Array [
+                Object {
+                    "columnId": Number(2580320622956420),
+                    "displayValue": String("primary"),
+                    "value": String("primary"),
+                },
+                Object {
+                    "columnId": Number(7083920250326916),
+                    "displayValue": String("second"),
+                    "value": String("second"),
+                },
+                Object {
+                    "columnId": Number(1454420716113796),
+                    "displayValue": String("third"),
+                    "value": String("third"),
+                },
+                Object {
+                    "columnId": Number(5958020343484292),
+                    "displayValue": String("fourth"),
+                    "value": String("fourth"),
+                },
+                Object {
+                    "columnId": Number(3706220529799044),
+                    "displayValue": String("1234"),
+                    "value": Number(1234.0),
+                },
+                Object {
+                    "columnId": Number(8209820157169540),
+                    "displayValue": String("1234"),
+                    "value": Number(1234.0),
+                },
+            ],
+            "createdAt": String("2025-02-22T11:13:46Z"),
+            "expanded": Bool(true),
+            "id": Number(4858766701891460),
+            "modifiedAt": String("2025-02-22T11:13:46Z"),
+            "rowNumber": Number(1),
+        },
+        Object {
+            "cells": Array [
+                Object {
+                    "columnId": Number(2580320622956420),
+                    "displayValue": String("primary"),
+                    "value": String("primary"),
+                },
+                Object {
+                    "columnId": Number(7083920250326916),
+                    "displayValue": String("second"),
+                    "value": String("second"),
+                },
+                Object {
+                    "columnId": Number(1454420716113796),
+                    "displayValue": String("third"),
+                    "value": String("third"),
+                },
+                Object {
+                    "columnId": Number(5958020343484292),
+                    "displayValue": String("fourth"),
+                    "value": String("fourth"),
+                },
+                Object {
+                    "columnId": Number(3706220529799044),
+                    "displayValue": String("1234"),
+                    "value": Number(1234.0),
+                },
+                Object {
+                    "columnId": Number(8209820157169540),
+                    "displayValue": String("1234"),
+                    "value": Number(1234.0),
+                },
+            ],
+            "createdAt": String("2025-02-22T11:13:46Z"),
+            "expanded": Bool(true),
+            "id": Number(355167074520964),
+            "modifiedAt": String("2025-02-22T11:13:46Z"),
+            "rowNumber": Number(2),
+            "siblingId": Number(4858766701891460),
+        },
+        Object {
+            "cells": Array [
+                Object {
+                    "columnId": Number(2580320622956420),
+                    "displayValue": String("primary"),
+                    "value": String("primary"),
+                },
+                Object {
+                    "columnId": Number(7083920250326916),
+                    "displayValue": String("second"),
+                    "value": String("second"),
+                },
+                Object {
+                    "columnId": Number(1454420716113796),
+                    "displayValue": String("third"),
+                    "value": String("third"),
+                },
+                Object {
+                    "columnId": Number(5958020343484292),
+                    "displayValue": String("fourth"),
+                    "value": String("fourth"),
+                },
+                Object {
+                    "columnId": Number(3706220529799044),
+                    "displayValue": String("1234"),
+                    "value": Number(1234.0),
+                },
+                Object {
+                    "columnId": Number(8209820157169540),
+                    "displayValue": String("1234"),
+                    "value": Number(1234.0),
+                },
+            ],
+            "createdAt": String("2025-02-20T14:58:56Z"),
+            "expanded": Bool(true),
+            "id": Number(2782145287294852),
+            "modifiedAt": String("2025-02-22T11:13:46Z"),
+            "rowNumber": Number(3),
+            "siblingId": Number(355167074520964),
+        },
+        Object {
+            "cells": Array [
+                Object {
+                    "columnId": Number(2580320622956420),
+                },
+                Object {
+                    "columnId": Number(7083920250326916),
+                },
+                Object {
+                    "columnId": Number(1454420716113796),
+                },
+                Object {
+                    "columnId": Number(5958020343484292),
+                },
+                Object {
+                    "columnId": Number(3706220529799044),
+                },
+                Object {
+                    "columnId": Number(8209820157169540),
+                },
+            ],
+            "createdAt": String("2025-02-20T14:58:56Z"),
+            "expanded": Bool(true),
+            "id": Number(7285744914665348),
+            "modifiedAt": String("2025-02-22T11:13:46Z"),
+            "rowNumber": Number(4),
+            "siblingId": Number(2782145287294852),
+        },
+        Object {
+            "cells": Array [
+                Object {
+                    "columnId": Number(2580320622956420),
+                },
+                Object {
+                    "columnId": Number(7083920250326916),
+                },
+                Object {
+                    "columnId": Number(1454420716113796),
+                },
+                Object {
+                    "columnId": Number(5958020343484292),
+                },
+                Object {
+                    "columnId": Number(3706220529799044),
+                },
+                Object {
+                    "columnId": Number(8209820157169540),
+                },
+            ],
+            "createdAt": String("2025-02-20T14:58:56Z"),
+            "expanded": Bool(true),
+            "id": Number(1656245380452228),
+            "modifiedAt": String("2025-02-22T11:13:46Z"),
+            "rowNumber": Number(5),
+            "siblingId": Number(7285744914665348),
+        },
+    ],
+    "totalRowCount": Number(5),
+    "userPermissions": Object {
+        "summaryPermissions": String("ADMIN"),
+    },
+    "userSettings": Object {
+        "criticalPathEnabled": Bool(false),
+        "displaySummaryTasks": Bool(true),
+    },
+    "version": Number(14),
+}
+
